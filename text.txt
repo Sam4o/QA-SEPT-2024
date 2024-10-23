@@ -1,0 +1,6 @@
+git checkout
+git pull
+git checkout b-"branch"
+git add .
+git commit -m"text"
+git pull
